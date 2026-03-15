@@ -1,5 +1,8 @@
 
 # Zomato Data Analysis (2019–2025)
+## Dashboard Preview
+
+![Zomato Dashboard](Dashboard_preview.png)
 
 ## Project Overview
 
